@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:aula xmlns:ns2="miClase">
+    <alumnosDeEstaClase>
+        <alumno>
+            <nombre>Carlos Martinez Lopez</nombre>
+            <fechaNacimiento>1997-04-14</fechaNacimiento>
+            <dni>67679434T</dni>
+            <nia>56574458</nia>
+            <email>carlos345@gmail.com</email>
+            <telefono>658934025</telefono>
+            <nota>4.5</nota>
+        </alumno>
+        <alumno>
+            <nombre>Luis Gonzalez gomez</nombre>
+            <fechaNacimiento>1999-05-19</fechaNacimiento>
+            <dni>84594502J</dni>
+            <nia>59930123</nia>
+            <email>luisCar75@gmail.com</email>
+            <telefono>667451295</telefono>
+            <nota>8.4</nota>
+        </alumno>
+        <alumno>
+            <nombre>Juan Costa Martinez</nombre>
+            <fechaNacimiento>2002-12-01</fechaNacimiento>
+            <dni>67586923G</dni>
+            <nia>52367892</nia>
+            <email>jnCosMart@gmail.com</email>
+            <telefono>657329021</telefono>
+            <nota>6.7</nota>
+        </alumno>
+        <alumno>
+            <nombre>Roberto Kalogeropoúlou Beltrán</nombre>
+            <fechaNacimiento>2001-07-21</fechaNacimiento>
+            <dni>83929835L</dni>
+            <nia>51903245</nia>
+            <email>kalosRob07_1@gmail.com</email>
+            <telefono>659434902</telefono>
+            <nota>9.3</nota>
+        </alumno>
+        <alumno>
+            <nombre>Sofía Tarazona Pérez</nombre>
+            <fechaNacimiento>2000-09-24</fechaNacimiento>
+            <dni>73432389F</dni>
+            <nia>50945032</nia>
+            <email>tar_sofia@gmail.com</email>
+            <telefono>658934023</telefono>
+            <nota>9.0</nota>
+        </alumno>
+    </alumnosDeEstaClase>
+    <nombre>C.0.7</nombre>
+    <centro>EDUARDO PRIMO MARQUES</centro>
+    <localidad>Carlet</localidad>
+</ns2:aula>
